@@ -1,0 +1,46 @@
+/* Configuração da body */
+body{
+    background-color: #48cae4; /* Cor de fundo do body */
+    font-family: sans-serif; /* Estilo da fonte do body*/
+}
+/* Configuração das TAGs p e li */
+p, li{
+    color: #3c4642; /* Cor do texto do p e li */
+    font-size: 16px; /* Tamanho da fonte do p e li */
+}
+/* Configuração das TAGs h1, h2... */
+h1{
+   color: rgb(24, 23, 23); /* Cor do texto h1 */
+   font-size: 20px; /* Tamanho da fonte do texto */
+}
+h2{
+    color: rgb(24, 23, 23);
+    font-size: 18px;
+}
+h3{
+    color: rgb(24, 23, 23);
+    font-size: 16px;
+}
+h4{
+    color: #3c4642;
+    font-size: 14px;
+}
+/* Configuração das TAGs div */
+.top {
+    background-color: #457b9d; /* Cor de fundo dessa div */
+    text-align: center; /* para centralizar a imagem dessa div */
+    width: 1400px; /* Largura dessa div */
+    height: 300px; /* Altura dessa div */
+    line-height: 5px; /* Espaçamento de linhas dessa div */
+    
+    }
+
+/* Configuração das TAGs img */
+
+.foto{
+    width: 250px; /* Largura dessa imagem */
+    height: 250px; /* Altura dessa imagem */
+    border-radius: 100%; /* Borda arredondada dessa imagem */
+    top: 25px;
+    left: 600px;
+    }
